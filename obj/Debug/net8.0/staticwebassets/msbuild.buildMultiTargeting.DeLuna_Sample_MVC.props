@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DeLuna_Sample_MVC.props" />
+</Project>
